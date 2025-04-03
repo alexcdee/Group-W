@@ -1,64 +1,64 @@
-body {
-    background-color: #f2fdf7;
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-  }
+ body {
+        background-color: #f2fdf7;
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+      }
 
-  .navbar-custom {
-    background-color: #189e52;
-  }
+      .navbar-custom {
+        background-color: #189e52;
+      }
 
-  .navbar-custom .navbar-brand,
-  .navbar-custom .nav-link {
-    color: #fff;
-  }
+      .navbar-custom .navbar-brand,
+      .navbar-custom .nav-link {
+        color: #fff;
+      }
 
-  .navbar-custom .nav-link:hover {
-    color: #e0e0e0;
-  }
+      .navbar-custom .nav-link:hover {
+        color: #e0e0e0;
+      }
 
-  .hero-section {
-    padding: 80px 0;
-  }
+      .hero-section {
+        padding: 80px 0;
+      }
 
-  .hero-section h1 {
-    font-weight: bold;
-  }
+      .hero-section h1 {
+        font-weight: bold;
+      }
 
-  .hero-img {
-    max-width: 100%;
-    height: auto;
-  }
+      .hero-img {
+        max-width: 100%;
+        height: auto;
+      }
 
-  .btn-primary {
-    background-color: #189e52;
-    border-color: #189e52;
-  }
+      .btn-primary {
+        background-color: #189e52;
+        border-color: #189e52;
+      }
 
-  .btn-primary:hover {
-    background-color: #148943;
-    border-color: #148943;
-  }
+      .btn-primary:hover {
+        background-color: #148943;
+        border-color: #148943;
+      }
 
-  .feature-box,
-  .step-box {
-    background-color: #e3f5eb; /* darker base shade */
-    border: none;
-    border-radius: 8px;
-    padding: 20px;
-    margin: 10px;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-  }
+      .feature-box,
+      .step-box {
+        background-color: #e3f5eb; /* darker base shade */
+        border: none;
+        border-radius: 8px;
+        padding: 20px;
+        margin: 10px;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+      }
 
-  .feature-box:hover,
-  .step-box:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
-  }
+      .feature-box:hover,
+      .step-box:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+      }
 
-  footer {
-    background-color: #f2fdf7;
-    color: #444;
-    border-top: 1px solid #ccc;
-    padding: 20px 0;
-  }
+      footer {
+        background-color: #f2fdf7;
+        color: #444;
+        border-top: 1px solid #ccc;
+        padding: 20px 0;
+      }
